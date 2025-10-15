@@ -9,5 +9,6 @@ This example is adapted from the [React Grounding Toolkit](https://github.com/Vi
 
 Explore the original `ListItem.jsx` component [here](https://github.com/VipTechDev/react-grounding-toolkit/blob/main/src/components/ListItem.jsx).
 
-#Referenced in Cue Card 2: JSX Syntax
+<p>🔖 Referenced in Cue Card 2: JSX Syntax</p>
+
 ---
